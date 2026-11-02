@@ -1,6 +1,6 @@
 # 👋 Boas-vindas
 
-Olá e seja muito **bem-vindo(a)** ao nosso minicurso **Visão Computacional**
+Olá e seja muito **bem-vindo(a)** ao nosso minicurso de **Visão Computacional**
 
 Se você já se perguntou **como um computador enxerga o mundo, processa imagens e reconhece padrões**, este curso foi pensado para responder exatamente essa pergunta. Sendo assim, ao longo desses **cinco dias**, aprenderemos desde a estrutura de dados bruta das imagens até a implementação e aplicação de **redes neurais convolucionais** e ferramentas do **estado da arte**.
 
