@@ -10,11 +10,11 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
-    - file: dia_1.ipynb
-    - file: dia_2.ipynb
-    - file: dia_3.ipynb
-    - file: dia_4.ipynb
-    - file: dia_5.ipynb
+    - file: conteudo/dia_1.ipynb
+    - file: conteudo/dia_2.ipynb
+    - file: conteudo/dia_3.ipynb
+    - file: conteudo/dia_4.ipynb
+    - file: conteudo/dia_5.ipynb
 site:
   template: book-theme
   options:
