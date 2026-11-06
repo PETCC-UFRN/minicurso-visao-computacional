@@ -8,18 +8,6 @@ Você aprenderá a manipular desde um **único pixel** até **filtros manuais de
 
 ---
 
-# 🚀 Ao final do curso...
-
-Você terá desenvolvido e treinado **suas próprias redes e pipelines de Visão Computacional**, tornando-se capaz de:
-
-- **Aplicar** conceitos de visão computacional diretamente em imagens estáticas;
-- **Familiarizar-se** com a matemática por trás do treinamento de modelos de inteligência artificial;
-- **Implementar** (com suporte) uma rede neural no contexto de visão;
-- **Manejar** as IAs e ferramentas de maior relevância do segmento (como OpenCV, YOLO e MediaPipe);
-- **Compreender** para onde está caminhando o estado da arte da área.
-
----
-
 # 🎯 Objetivo do Curso
 
 Neste minicurso, você construirá uma **base sólida em Visão Computacional**, partindo da manipulação básica de matrizes até o uso de modelos modernos de inteligência artificial.
